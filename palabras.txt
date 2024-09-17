@@ -1,0 +1,6 @@
+python
+ahorcado
+juego
+codigo
+mesa
+cabeza
